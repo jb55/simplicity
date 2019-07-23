@@ -7254,7 +7254,7 @@
     <associate|LC98|<tuple|6.2.2|?>>
     <associate|SS:Coq:MerkleRoots|<tuple|8.5|71>>
     <associate|Serialization|<tuple|2.8|?>>
-    <associate|app:AltSerialization|<tuple|B|91>>
+    <associate|app:AltSerialization|<tuple|B|95>>
     <associate|app:ElementsTransactions|<tuple|A|87>>
     <associate|auto-1|<tuple|1|7>>
     <associate|auto-10|<tuple|2.2|13>>
@@ -7325,12 +7325,12 @@
     <associate|auto-159|<tuple|A|87>>
     <associate|auto-16|<tuple|2.3.3|16>>
     <associate|auto-160|<tuple|A.1|89>>
-    <associate|auto-161|<tuple|A.1.1|91>>
+    <associate|auto-161|<tuple|A.1.1|92>>
     <associate|auto-162|<tuple|A.1.2|93>>
-    <associate|auto-163|<tuple|A.1.3|?>>
-    <associate|auto-164|<tuple|A.2|?>>
-    <associate|auto-165|<tuple|B|?>>
-    <associate|auto-166|<tuple|B|?>>
+    <associate|auto-163|<tuple|A.1.3|93>>
+    <associate|auto-164|<tuple|A.2|94>>
+    <associate|auto-165|<tuple|B|95>>
+    <associate|auto-166|<tuple|B|97>>
     <associate|auto-17|<tuple|2.3.4|16>>
     <associate|auto-18|<tuple|2.3.4.1|17>>
     <associate|auto-19|<tuple|2.4|17>>
@@ -7422,24 +7422,24 @@
     <associate|auto-97|<tuple|7.1.2.1|61>>
     <associate|auto-98|<tuple|7.1.2.2|62>>
     <associate|auto-99|<tuple|7.2|62>>
-    <associate|bib-Appel:2015|<tuple|1|93>>
-    <associate|bib-Carette:2009|<tuple|3|93>>
-    <associate|bib-Coq:manual|<tuple|5|93>>
-    <associate|bib-King1993|<tuple|8|93>>
-    <associate|bib-Mahboubi:2013|<tuple|9|93>>
-    <associate|bib-Mairson:1989|<tuple|10|93>>
-    <associate|bib-bip-schnorr|<tuple|17|93>>
-    <associate|bib-bitcoin|<tuple|11|93>>
-    <associate|bib-f-algebra|<tuple|16|93>>
-    <associate|bib-garillot:2009|<tuple|6|93>>
-    <associate|bib-gentzen|<tuple|7|93>>
-    <associate|bib-libsecp256k1|<tuple|18|93>>
-    <associate|bib-oconnor2014|<tuple|14|93>>
-    <associate|bib-satoshiScript|<tuple|12|93>>
-    <associate|bib-script|<tuple|2|93>>
-    <associate|bib-sec2|<tuple|4|93>>
-    <associate|bib-sha|<tuple|13|93>>
-    <associate|bib-unification|<tuple|15|93>>
+    <associate|bib-Appel:2015|<tuple|1|97>>
+    <associate|bib-Carette:2009|<tuple|3|97>>
+    <associate|bib-Coq:manual|<tuple|5|97>>
+    <associate|bib-King1993|<tuple|8|97>>
+    <associate|bib-Mahboubi:2013|<tuple|9|97>>
+    <associate|bib-Mairson:1989|<tuple|10|97>>
+    <associate|bib-bip-schnorr|<tuple|17|97>>
+    <associate|bib-bitcoin|<tuple|11|97>>
+    <associate|bib-f-algebra|<tuple|16|97>>
+    <associate|bib-garillot:2009|<tuple|6|97>>
+    <associate|bib-gentzen|<tuple|7|97>>
+    <associate|bib-libsecp256k1|<tuple|18|97>>
+    <associate|bib-oconnor2014|<tuple|14|97>>
+    <associate|bib-satoshiScript|<tuple|12|97>>
+    <associate|bib-script|<tuple|2|97>>
+    <associate|bib-sec2|<tuple|4|97>>
+    <associate|bib-sha|<tuple|13|97>>
+    <associate|bib-unification|<tuple|15|97>>
     <associate|chapter:preliminaries|<tuple|2|11>>
     <associate|cite_ref-Martelli.Montanari.1976_16-1|<tuple|6.1.1|?>>
     <associate|fig:inheritance|<tuple|8.1|68>>
@@ -7463,7 +7463,7 @@
     <associate|ss:DAGs|<tuple|7.1|57>>
     <associate|ss:DenotationalSemanticsOfFullSimplicity|<tuple|9.2.3|79>>
     <associate|ss:Deserialization|<tuple|6.2|?>>
-    <associate|ss:ELDenotationalSemantics|<tuple|A.1|?>>
+    <associate|ss:ELDenotationalSemantics|<tuple|A.1|89>>
     <associate|ss:FreeMonadicDeserialization|<tuple|9.2.5.1|80>>
     <associate|ss:Haskell-Serialization|<tuple|9.2.5|80>>
     <associate|ss:MonadZero|<tuple|2.3.4|16>>
