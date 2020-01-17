@@ -6,9 +6,19 @@ let hp = nixpkgs.haskell.packages.${compiler};
     inherit lens-family;
   };
 
+  haskell-bitcoin = hp.callPackage ./Simplicity.Bitcoin.Haskell.nix {
+    inherit lens-family;
+  };
+
+  haskell-elements = hp.callPackage ./Simplicity.Elements.Haskell.nix {
+    inherit lens-family;
+  };
+
   haskellPackages = hp.override {
     overrides = self: super: {
-      Simplicity = haskell;
+      Simplicity          = haskell;
+      Simplicity-Bitcoin  = haskell-bitcoin;
+      Simplicity-Elements = haskell-elements;
     };
   };
 
